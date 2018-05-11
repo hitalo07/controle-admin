@@ -17,8 +17,8 @@
         </q-btn>
 
         <q-toolbar-title>
-          Quasar App
-          <div slot="subtitle">Running on Quasar v{{ $q.version }}</div>
+          Controle Administrativo
+          <div slot="subtitle">Sistema de controel administrativo</div>
         </q-toolbar-title>
       </q-toolbar>
     </q-layout-header>
